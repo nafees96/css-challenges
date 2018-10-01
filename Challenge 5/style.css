@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Hi+Melody');
+@import url('https://fonts.googleapis.com/css?family=Cute+Font|Hi+Melody');
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans|Yanone+Kaffeesatz');
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans|Ubuntu+Condensed');
+
+body{
+  background-color: gr
+}
+
+p1{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Hi Melody', cursive;
+}
+
+p2{
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Cute Font', cursive;
+}

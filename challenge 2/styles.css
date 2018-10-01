@@ -1,0 +1,84 @@
+/* General setup */
+/* Remember to always comment*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  min-width: 1000px;
+  max-width: 1400px;
+  font-size: 14px;
+  font-style: initial;
+  line-height: 16px;
+}
+
+/* Layout */
+
+section {
+  float: left;
+  width: 50%;
+}
+
+aside {
+  float: left;
+  width: 30%;
+}
+
+nav {
+  float: none;
+  width: 20%;
+}
+
+footer {
+  clear: both;
+}
+
+header, section, aside, nav, footer {
+  padding: 20px;
+}
+
+/* header and footer */
+
+header, footer {
+  border-top: 5px solid #a66;
+  border-bottom: 5px solid #a66;
+}
+h1 {
+  letter-spacing: 1.2px;
+  text-align: center;
+  font-size: 35px;
+  font-style: oblique;
+}
+
+/* WRITE YOUR CODE BELOW HERE */
+
+
+#peace li a{
+          display: block;
+          background-color: limegreen;
+          margin-bottom: 8px;
+          text-decoration: none;
+          font-size: 22px;
+}
+
+#peace li a:hover{
+                background-color: lightseagreen;
+}
+  
+.respect li a{
+  display: block;
+  background-color: limegreen;
+  margin-bottom: 8px;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+.respect li a:hover{
+        background-color: lightseagreen;
+}
+
+body {
+  background-image: url("https://images.wallpaperscraft.com/image/gameboy_anaglyph_3d_102604_1280x720.jpg")
+}
